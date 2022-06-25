@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+  th{
+
+  }
+  td{
+    text-align: center;
+  }
+  td:hover{
+    transition:.2s;
+    transform:scale(1.2);
+    cursor:pointer;
+    z-index:2;
+
+}
+
+/*CORES DE FUNDO*/
+.nao_metais{
+    background-color:#a1d344;
+}
+.gases_nobres{
+    background-color: #3d9ee3;
+}
+.metais_alcalinos{
+    background-color: #f1b200;
+}
+.metais_alcalino-terrosos{
+    background-color: #eada00;
+}
+.semimetais{
+    background-color: #4db6ac;
+}
+.halogenios{
+    background-color: #70cbeb;
+}
+.outros_metais{
+    background-color: #a2c7d3;
+}
+.metais_de_transicao{
+    background-color: #eb8e8e;
+}
+.Lantanideos{
+    background-color: #90e3e9;
+}
+.Actinidios{
+    background-color: #dcadd6;
+}
